@@ -131,3 +131,6 @@ h1,h2,h3{text-wrap:balance}
  .hero2 .ph{width:min(210px,42%)}
  .hero2 .ph1{right:auto;left:8%;top:28px}.hero2 .ph2{right:8%;top:56px}
 }
+
+.foot .ig,.ab-follow a{display:inline-flex;align-items:center;gap:5px;white-space:nowrap}
+.ab-follow{text-align:center;margin:0 0 10px;font-size:17px}.ab-follow a{font-weight:700}
