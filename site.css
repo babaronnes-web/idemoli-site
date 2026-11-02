@@ -49,6 +49,11 @@ h1,h2,h3{text-wrap:balance}
 .ticks{list-style:none;padding:0;margin:14px 0 0;display:grid;gap:8px}
 .ticks li{padding-left:30px;position:relative;font-weight:600}
 .ticks li::before{content:"✓";position:absolute;left:0;top:0;width:22px;height:22px;border-radius:50%;background:var(--teal);color:#fff;font-size:13px;display:grid;place-items:center}
+.duo{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:28px;max-width:760px;margin:0 auto}
+.duo figure{margin:0;display:flex;flex-direction:column;gap:14px}
+.duo figcaption{font-size:16px;color:#41463F;text-align:center}.duo figcaption b{display:block;color:var(--navy);font-size:18px;margin-bottom:2px}
+.ticks-row{grid-template-columns:repeat(3,auto);justify-content:center;gap:10px 26px;margin-top:26px}
+@media (max-width:640px){.duo{gap:14px}.duo figcaption{font-size:14.5px}.ticks-row{grid-template-columns:1fr;justify-content:start}}
 .kid{background:var(--cream)}
 .kid h2{font-family:var(--kid);font-weight:800}
 .kid-art{position:relative}
@@ -73,7 +78,7 @@ h1,h2,h3{text-wrap:balance}
  .hero-g,.split,.split.rev{grid-template-columns:1fr}
  .phones{min-height:480px;max-width:420px;margin:0 auto;width:100%}
  .feat{grid-template-columns:repeat(2,minmax(0,1fr))}
- .split.rev .kid-art{order:-1}
+ .split.rev .kid-art,.split.rev>.shot{order:-1}
 }
 @media (max-width:560px){
  .hero{padding-top:28px}
