@@ -134,3 +134,13 @@ h1,h2,h3{text-wrap:balance}
 
 .foot .ig,.ab-follow a{display:inline-flex;align-items:center;gap:5px;white-space:nowrap}
 .ab-follow{text-align:center;margin:0 0 10px;font-size:17px}.ab-follow a{font-weight:700}
+
+/* Çocuk modu: iki telefon (ana sayfa + alfabe) */
+.kid-duo{display:grid;grid-template-columns:1fr 1fr;gap:18px;align-items:start}
+.kid-duo .shot{width:100%!important;max-width:260px;max-height:none}
+.kid-duo .shot:first-child{transform:rotate(-3deg)}
+.kid-duo .shot:last-child{transform:rotate(3deg);margin-top:34px}
+@media (max-width:560px){.kid-duo{gap:10px}.kid-duo .shot{border-width:4px;border-radius:18px}}
+
+.kid-duo .fesko{left:-40px;bottom:-30px;width:150px;z-index:3}
+@media (max-width:860px){.kid-duo .fesko{left:-8px;bottom:-24px;width:110px}}
