@@ -112,3 +112,22 @@ h1,h2,h3{text-wrap:balance}
  .sec{padding:42px 0}
  .fesko{width:110px}
 }
+
+/* Ana sayfa girişi · Play tanıtım görseliyle aynı düzen */
+.hero2{--hcream:#FCF3D4;background:linear-gradient(100deg,var(--hcream) 0%,var(--hcream) 54%,var(--teal) 54.1%,#174a47 100%);padding:40px 0 36px}
+.hero2 .hero-g{grid-template-columns:1fr 1fr;gap:40px}
+.hero-logo{width:min(340px,80%);height:auto;margin:0 0 14px -6px}
+.hero2 h1{font:700 clamp(30px,4.4vw,48px)/1.1 var(--sans);color:var(--navy);letter-spacing:-.5px}
+.tagline{margin:14px 0 0;font:700 14px/1.7 var(--sans);letter-spacing:.1em;text-transform:uppercase;color:var(--coral);max-width:34em}
+.tagline span{white-space:nowrap}
+.hero2 .lead{margin-top:14px}
+.hero2 .ph{border-color:var(--navy);box-shadow:0 20px 44px rgba(0,0,0,.35)}
+.hero2 .ph1{right:42%;top:10px;transform:rotate(-5deg)}.hero2 .ph2{right:6%;top:52px;transform:rotate(5deg)}
+@media (max-width:860px){
+ .hero2{background:var(--hcream);padding-bottom:0}
+ .hero2 .hero-g{grid-template-columns:1fr;gap:28px}
+ .hero-logo{width:min(250px,70%)}
+ .hero2 .phones{max-width:none;margin-left:calc(-1 * max(16px, env(safe-area-inset-left, 0px)));margin-right:calc(-1 * max(16px, env(safe-area-inset-right, 0px)));width:auto;background:linear-gradient(170deg,var(--teal),#174a47);min-height:clamp(340px,96vw,500px);overflow:hidden}
+ .hero2 .ph{width:min(210px,42%)}
+ .hero2 .ph1{right:auto;left:8%;top:28px}.hero2 .ph2{right:8%;top:56px}
+}
