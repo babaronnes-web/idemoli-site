@@ -144,3 +144,6 @@ h1,h2,h3{text-wrap:balance}
 
 .kid-duo .fesko{left:-40px;bottom:-30px;width:150px;z-index:3}
 @media (max-width:860px){.kid-duo .fesko{left:-8px;bottom:-24px;width:110px}}
+
+.kid-more{padding-top:24px}
+.kid + .kid-more{border-top:0}
