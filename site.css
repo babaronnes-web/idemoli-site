@@ -16,6 +16,7 @@ a:focus-visible,button:focus-visible{outline:3px solid var(--coral);outline-offs
 .top nav{display:flex;gap:4px;flex-wrap:wrap;justify-content:flex-end}
 .top nav a{text-decoration:none;color:var(--ink);font-weight:600;font-size:15px;padding:8px 10px;border-radius:10px}
 .top nav a:hover{background:#E2EEEC}
+.top nav a.home{display:inline-flex;align-items:center;gap:5px}
 .top nav a.on{background:var(--teal);color:#fff}
 section[id]{scroll-margin-top:60px}
 #ozellikler{padding-bottom:120px}
