@@ -234,3 +234,8 @@ h1.slogan span:nth-child(3){color:var(--coral)}
 .g-cta{display:flex;gap:18px;align-items:center;justify-content:space-between;flex-wrap:wrap;background:var(--cream);border:1px solid #F1E2B5;border-radius:18px;padding:18px 20px;margin:36px 0 10px}
 .g-cta div{display:grid;gap:2px;min-width:0;flex:1 1 280px}.g-cta b{font-size:18px;color:var(--navy)}.g-cta span{color:#41463F}
 .g-more{font-size:20px!important}
+/* Yakında: Google Play + App Store rozetleri */
+.stores{display:inline-flex;flex-wrap:wrap;gap:10px}
+.store.soon{cursor:default}
+.soon-g{grid-template-columns:1fr;max-width:760px}
+.soon-g .cta{margin:18px 0 8px}
