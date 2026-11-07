@@ -239,3 +239,5 @@ h1.slogan span:nth-child(3){color:var(--coral)}
 .store.soon{cursor:default}
 .soon-g{grid-template-columns:1fr;max-width:760px}
 .soon-g .cta{margin:18px 0 8px}
+.top nav a.lang{border:1.5px solid var(--teal);color:var(--teal);font-size:13px;letter-spacing:.04em;padding:6px 9px;margin-left:4px;align-self:center}
+.top nav a.lang:hover{background:var(--teal);color:#fff}

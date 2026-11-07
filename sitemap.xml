@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://idemoli.com/</loc><lastmod>2026-11-03</lastmod></url>
-  <url><loc>https://idemoli.com/bosnakca-gramer.html</loc><lastmod>2026-11-03</lastmod></url>
-  <url><loc>https://idemoli.com/bosnakca-kelimeler.html</loc><lastmod>2026-11-03</lastmod></url>
-  <url><loc>https://idemoli.com/gizlilik.html</loc><lastmod>2026-11-03</lastmod></url>
-  <url><loc>https://idemoli.com/hakkinda.html</loc><lastmod>2026-11-03</lastmod></url>
-  <url><loc>https://idemoli.com/rehberler.html</loc><lastmod>2026-11-03</lastmod></url>
-  <url><loc>https://idemoli.com/sancak-bosnakcasi.html</loc><lastmod>2026-11-03</lastmod></url>
-  <url><loc>https://idemoli.com/turkce-konusanlar-icin-bosnakca.html</loc><lastmod>2026-11-03</lastmod></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://idemoli.com/</loc><lastmod>2026-11-07</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://idemoli.com/"/><xhtml:link rel="alternate" hreflang="bs" href="https://idemoli.com/bs/"/></url>
+  <url><loc>https://idemoli.com/bs/</loc><lastmod>2026-11-07</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://idemoli.com/"/><xhtml:link rel="alternate" hreflang="bs" href="https://idemoli.com/bs/"/></url>
+  <url><loc>https://idemoli.com/hakkinda.html</loc><lastmod>2026-11-07</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://idemoli.com/hakkinda.html"/><xhtml:link rel="alternate" hreflang="bs" href="https://idemoli.com/bs/o-nama.html"/></url>
+  <url><loc>https://idemoli.com/bs/o-nama.html</loc><lastmod>2026-11-07</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://idemoli.com/hakkinda.html"/><xhtml:link rel="alternate" hreflang="bs" href="https://idemoli.com/bs/o-nama.html"/></url>
+  <url><loc>https://idemoli.com/gizlilik.html</loc><lastmod>2026-11-07</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://idemoli.com/gizlilik.html"/><xhtml:link rel="alternate" hreflang="bs" href="https://idemoli.com/bs/privatnost.html"/></url>
+  <url><loc>https://idemoli.com/bs/privatnost.html</loc><lastmod>2026-11-07</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://idemoli.com/gizlilik.html"/><xhtml:link rel="alternate" hreflang="bs" href="https://idemoli.com/bs/privatnost.html"/></url>
+  <url><loc>https://idemoli.com/rehberler.html</loc><lastmod>2026-11-07</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://idemoli.com/rehberler.html"/><xhtml:link rel="alternate" hreflang="bs" href="https://idemoli.com/bs/vodici.html"/></url>
+  <url><loc>https://idemoli.com/bs/vodici.html</loc><lastmod>2026-11-07</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://idemoli.com/rehberler.html"/><xhtml:link rel="alternate" hreflang="bs" href="https://idemoli.com/bs/vodici.html"/></url>
+  <url><loc>https://idemoli.com/turkce-konusanlar-icin-bosnakca.html</loc><lastmod>2026-11-07</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://idemoli.com/turkce-konusanlar-icin-bosnakca.html"/><xhtml:link rel="alternate" hreflang="bs" href="https://idemoli.com/bs/bosanski-za-govornike-turskog.html"/></url>
+  <url><loc>https://idemoli.com/bs/bosanski-za-govornike-turskog.html</loc><lastmod>2026-11-07</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://idemoli.com/turkce-konusanlar-icin-bosnakca.html"/><xhtml:link rel="alternate" hreflang="bs" href="https://idemoli.com/bs/bosanski-za-govornike-turskog.html"/></url>
+  <url><loc>https://idemoli.com/bosnakca-kelimeler.html</loc><lastmod>2026-11-07</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://idemoli.com/bosnakca-kelimeler.html"/><xhtml:link rel="alternate" hreflang="bs" href="https://idemoli.com/bs/bosanske-rijeci.html"/></url>
+  <url><loc>https://idemoli.com/bs/bosanske-rijeci.html</loc><lastmod>2026-11-07</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://idemoli.com/bosnakca-kelimeler.html"/><xhtml:link rel="alternate" hreflang="bs" href="https://idemoli.com/bs/bosanske-rijeci.html"/></url>
+  <url><loc>https://idemoli.com/bosnakca-gramer.html</loc><lastmod>2026-11-07</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://idemoli.com/bosnakca-gramer.html"/><xhtml:link rel="alternate" hreflang="bs" href="https://idemoli.com/bs/bosanska-gramatika.html"/></url>
+  <url><loc>https://idemoli.com/bs/bosanska-gramatika.html</loc><lastmod>2026-11-07</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://idemoli.com/bosnakca-gramer.html"/><xhtml:link rel="alternate" hreflang="bs" href="https://idemoli.com/bs/bosanska-gramatika.html"/></url>
+  <url><loc>https://idemoli.com/sancak-bosnakcasi.html</loc><lastmod>2026-11-07</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://idemoli.com/sancak-bosnakcasi.html"/><xhtml:link rel="alternate" hreflang="bs" href="https://idemoli.com/bs/sandzacki-govor.html"/></url>
+  <url><loc>https://idemoli.com/bs/sandzacki-govor.html</loc><lastmod>2026-11-07</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://idemoli.com/sancak-bosnakcasi.html"/><xhtml:link rel="alternate" hreflang="bs" href="https://idemoli.com/bs/sandzacki-govor.html"/></url>
 </urlset>
