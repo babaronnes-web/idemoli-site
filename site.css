@@ -242,3 +242,11 @@ h1.slogan span:nth-child(3){color:var(--coral)}
 .top nav a.lang{display:inline-flex;align-items:center;padding:6px 8px;margin-left:4px;align-self:center}
 .top nav a.lang img{display:block;width:auto;height:18px;border-radius:3px;box-shadow:0 0 0 1px rgba(0,0,0,.15)}
 .top nav a.lang:hover{background:#E2EEEC}
+.doc.legal h2{scroll-margin-top:90px}
+.kv{border-collapse:collapse;width:100%;margin:8px 0 18px}.kv th,.kv td{text-align:left;vertical-align:top;padding:9px 12px;border-bottom:1px solid #E3DCC4}.kv th{width:38%;font-weight:600}
+.legal-t{border-collapse:collapse;width:100%;min-width:620px;font-size:15px}.legal-t th,.legal-t td{text-align:left;vertical-align:top;padding:10px 12px;border-bottom:1px solid #E3DCC4}.legal-t thead th{background:#E2EEEC}
+.rights li{margin:4px 0}
+.contact-g{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin:22px 0}
+.contact-c{background:#fff;border:1px solid #E3DCC4;border-radius:18px;padding:20px;display:flex;flex-direction:column;gap:8px}.contact-c>span{font-size:28px}.contact-c p{margin:0;flex:1}.contact-c .btn-cta{align-self:flex-start;font-size:15px;padding:10px 16px;word-break:break-all}
+.foot .legal-l small{opacity:.75}
+@media (max-width:680px){.legal-t{min-width:0;font-size:15.5px}.legal-t thead{display:none}.legal-t tr{display:block;background:#fff;border:1px solid #E3DCC4;border-radius:14px;margin:0 0 12px;padding:6px 0}.legal-t td{display:block;border:0;padding:6px 14px}.legal-t td::before{content:attr(data-l);display:block;font-size:12.5px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--teal)}.kv th{width:42%}}
